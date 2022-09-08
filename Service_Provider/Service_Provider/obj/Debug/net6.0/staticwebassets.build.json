@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mcko2OAnyw1mRn9MGrOe2sjkdh5MVSdrCgfdFqiDUf0=",
+  "Source": "Service_Provider",
+  "BasePath": "_content/Service_Provider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
